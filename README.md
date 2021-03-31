@@ -6,7 +6,7 @@ This command reacts to past couple messages with kekws and uploads a kekw meme.
 
 ![example output](https://github.com/Mcheung7272/React-Bot/blob/main/ImagePreviews/kekwShow.png "Example Output")
 
-## !*weeb
+## *weeb
 This command reacts to messages with anime emotes and uploads an anime meme. 
 
 ![example output](https://github.com/Mcheung7272/React-Bot/blob/main/ImagePreviews/weebshow.png "Example Output")
