@@ -71,9 +71,7 @@ async def listAllEmotes(ctx):
     currentG = bot.get_guild(guildID)
     list = await currentG.fetch_emojis()
     one = random.choice(list)
-    await ctx.send(one)
-    await ctx.send(":dress:")
-    await ctx.send("<:Socks:755471011469852774>")  
+    await ctx.send(one + " \n:dress: \n<:Socks:755471011469852774>")
 
 @bot.command(name='helpme')
 async def helpMenu(ctx):
